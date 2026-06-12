@@ -1,4 +1,4 @@
-# 55317B Querying Microsoft SQL Server2025
+# 55317B Querying Microsoft SQL Server 2025
 https://www.softwaretutorialservices.com/course/55317B
 
 Course Overview:
