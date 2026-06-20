@@ -2,7 +2,7 @@
 https://www.softwaretutorialservices.com/course/55317B
 
 Course Overview:
-This three-day beginner course teaches students how to use Transact-SQL and otherlanguages to query Microsoft SQL Server 2025. Usingdemonstrations and hands-on labs, students will master core querying skills,performance optimization, and semi-structured or vector data handling. This courseserves as the foundation for all SQL Server-related disciplines including Database Administration, Database Development, and Business Intelligence.
+This three-day beginner course teaches students how to use Transact-SQL and other languages to query Microsoft SQL Server 2025. Using demonstrations and hands-on labs, students will master core querying skills, performance optimization, and semi-structured or vector data handling. This course serves as the foundation for all SQL Server-related disciplines including Database Administration, Database Development, and Business Intelligence.
 
 After completing this instructor-led course, students will be able to:
 • Query, sort and filter data in database tables
